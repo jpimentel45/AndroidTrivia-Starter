@@ -5,15 +5,15 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5d38e39d-8702-4f63-bfb2-d75edd888188" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/AndroidTrivia-Starter.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/AndroidTrivia-Starter.app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GuessTheWord-Starter/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWord-Starter/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GuessTheWord-Starter/app/src/main/java/com/example/android/guesstheword/screens/game/GameFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWord-Starter/app/src/main/java/com/example/android/guesstheword/screens/game/GameFragment.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GuessTheWord-Starter/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessTheWord-Starter/app/src/main/java/com/example/android/guesstheword/screens/score/ScoreFragment.kt" afterDir="false" />
@@ -61,7 +61,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="AndroidTrivia-Starter.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -141,5 +141,25 @@
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="373" y="164" key="Github.UntrackedFilesDialog/0.25.1440.875@0.25.1440.875" timestamp="1619629194020" />
+    <state width="1394" height="189" key="GridCell.Tab.0.bottom" timestamp="1619629887022">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="189" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1619629887022" />
+    <state width="1394" height="189" key="GridCell.Tab.0.center" timestamp="1619629887020">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="189" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1619629887020" />
+    <state width="1394" height="189" key="GridCell.Tab.0.left" timestamp="1619629887019">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="189" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1619629887019" />
+    <state width="1394" height="189" key="GridCell.Tab.0.right" timestamp="1619629887020">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1394" height="189" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1619629887020" />
+    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1619630035071">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1619630035071" />
   </component>
 </project>
